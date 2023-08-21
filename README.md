@@ -10,4 +10,4 @@
 
 - Social Links:
   - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-hariharan-2834271b7/)
-  - <a href="https://priyahariharan.duckdns.org/">Portfolio</a>
+  - <a href="https://priyahariharan.vercel.app">Portfolio</a>
